@@ -2,17 +2,17 @@
 Recreated a classic arcade "Frogger" game.
 
 <p>
-How to run:
-1- Open this link
-2- Play the game!
+How to run:<br>
+1- Open this link<br>
+2- Play the game!<br>
 </p>
 
 <p>
 How to play:
 1- Use arrow keys to move the player<br>
-2- Avoid the ladybugs!
-3- If you run into a bug, you lose and go back to the beginning
-4- If you get across, you win!
+2- Avoid the ladybugs!<br>
+3- If you run into a bug, you lose and go back to the beginning<br>
+4- If you get across, you win!<br>
 </p>
 
 <p>
@@ -20,6 +20,9 @@ In this game you have a Player and Enemies (Bugs). The goal of the player is to 
 </p>
 
 <p>
-Dependencies:
-Font-Awesome, Google Coda Font, Stack Overflow, FEND Arcade Game Project - Getting Started Webinar
+Dependencies:<br>
+- Font-Awesome<br>
+- Google Coda Font<br>
+- Stack Overflow<br>
+- FEND Arcade Game Project: Getting Started Webinar<br>
 </p>
