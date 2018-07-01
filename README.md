@@ -9,7 +9,7 @@ How to run:
 
 <p>
 How to play:
-1- Use arrow keys to move the player
+1- Use arrow keys to move the player<br>
 2- Avoid the ladybugs!
 3- If you run into a bug, you lose and go back to the beginning
 4- If you get across, you win!
