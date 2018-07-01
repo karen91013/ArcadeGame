@@ -8,7 +8,7 @@ How to run:<br>
 </p>
 
 <p>
-How to play:
+How to play:<br>
 1- Use arrow keys to move the player<br>
 2- Avoid the ladybugs!<br>
 3- If you run into a bug, you lose and go back to the beginning<br>
