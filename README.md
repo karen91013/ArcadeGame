@@ -3,7 +3,7 @@ Recreated a classic arcade "Frogger" game.
 
 <p>
 How to run:<br>
-1- Open this link<br>
+1- Click <a href="https://karen91013.github.io/ArcadeGame/">here</a><br>
 2- Play the game!<br>
 </p>
 
